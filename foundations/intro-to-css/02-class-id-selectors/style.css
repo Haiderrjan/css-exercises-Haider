@@ -1,0 +1,21 @@
+.one, .three, .five{
+    background-color: rgb(255, 141, 161);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+    
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
+
